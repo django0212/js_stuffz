@@ -1,6 +1,8 @@
 console.clear()
 // only change code below this line
 
+// The "range" function returns all the numbers between two limits and the "sum" function sums the arrays passed to it.
+
 function range(a, b) {
 	var rng = [];
 	for (i=a;i<b+1;i++) {
