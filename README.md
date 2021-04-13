@@ -1,3 +1,3 @@
 # js_stuffz
 
-I upload some JS code snippets here.
+I upload JS code snippets here.
