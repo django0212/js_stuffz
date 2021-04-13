@@ -7,7 +7,7 @@ function sum(a, b) {
 		count += 1;
 	}
 	sum = ((a+b)/2)*count;
-	console.log(sum)
+	console.log(sum);
 }
 
 sum(1, 10);
