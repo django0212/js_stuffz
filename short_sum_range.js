@@ -1,4 +1,4 @@
-  console.clear()
+ console.clear()
 // only change code below this line
 
 function sum(a, b) {
