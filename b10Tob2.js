@@ -1,6 +1,7 @@
 console.clear()
 // only change code below this line
 // this function works only for postive numbers
+// to convert to other bases, plug in a different number instead of 2
 
 function con(a) {
 	var dic = [];
