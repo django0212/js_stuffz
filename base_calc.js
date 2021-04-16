@@ -1,6 +1,6 @@
 console.clear()
 // only change code below this line
-// a = num1, b = num2, c = base
+// a = number 1, b = number 2, c = base
 
 function con(a, b) {
 	var dic = [];
