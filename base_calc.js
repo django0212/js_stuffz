@@ -27,8 +27,8 @@ function add(a, b, c) {
 			num2 += (n2[i]) * (c**((n2.length-1) - i));
 		};
 
-		var sum = num1+num2
-		var conSum = con(sum, c)
+		var sum = num1+num2;
+		var conSum = con(sum, c);
 
 		console.log(`Base 10: ${sum}`);
 		console.log(`Base ${c}: ${conSum}`);
@@ -51,8 +51,8 @@ function add(a, b, c) {
 			num2 += (n2[i]) * (c**((n2.length-1) - i));
 		};
 
-		var sum = num1+num2
-		var conSum = con(sum, c)
+		var sum = num1+num2;
+		var conSum = con(sum, c);
 
 		console.log(`Base 10: ${sum}`);
 		console.log(`Base ${c}: ${conSum}`);
@@ -75,8 +75,8 @@ function sub(a, b, c) {
 			num2 += (n2[i]) * (c**((n2.length-1) - i));
 		};
 
-		var sum = num1-num2
-		var conSum = con(sum, c)
+		var sum = num1-num2;
+		var conSum = con(sum, c);
 
 		console.log(`Base 10: ${sum}`);
 		console.log(`Base ${c}: ${conSum}`);
@@ -99,8 +99,8 @@ function mult(a, b, c) {
 			num2 += (n2[i]) * (c**((n2.length-1) - i));
 		};
 
-		var sum = num1*num2
-		var conSum = con(sum, c)
+		var sum = num1*num2;
+		var conSum = con(sum, c);
 
 		console.log(`Base 10: ${sum}`);
 		console.log(`Base ${c}: ${conSum}`);
@@ -123,8 +123,8 @@ function div(a, b, c) {
 			num2 += (n2[i]) * (c**((n2.length-1) - i));
 		};
 
-		var sum = num1/num2
-		var conSum = con(sum, c)
+		var sum = num1/num2;
+		var conSum = con(sum, c);
 
 		console.log(`Base 10: ${sum}`);
 		console.log(`Base ${c}: ${conSum}`);
