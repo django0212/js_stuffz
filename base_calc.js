@@ -17,7 +17,7 @@ function add(a, b, c) {
 	var num1 = 0;
 	var num2 = 0;
 
-	if (n1.some(el => el > c-1) || n2.some(el => el > c-1) ) {
+	if (n1.some(el => el > c-1) || n2.some(el => el > c-1)) {
 		console.log(`Input is not base ${c} compliant.`);
 	} else {
 		for (var i = 0; i < n1.length; i++) {
@@ -41,7 +41,7 @@ function add(a, b, c) {
 	var num1 = 0;
 	var num2 = 0;
 
-	if (n1.some(el => el > c-1) || n2.some(el => el > c-1) ) {
+	if (n1.some(el => el > c-1) || n2.some(el => el > c-1)) {
 		console.log(`Input is not base ${c} compliant.`);
 	} else {
 		for (var i = 0; i < n1.length; i++) {
@@ -65,7 +65,7 @@ function sub(a, b, c) {
 	var num1 = 0;
 	var num2 = 0;
 
-	if (n1.some(el => el > c-1) || n2.some(el => el > c-1) ) {
+	if (n1.some(el => el > c-1) || n2.some(el => el > c-1)) {
 		console.log(`Input is not base ${c} compliant.`);
 	} else {
 		for (var i = 0; i < n1.length; i++) {
@@ -89,7 +89,7 @@ function mult(a, b, c) {
 	var num1 = 0;
 	var num2 = 0;
 
-	if (n1.some(el => el > c-1) || n2.some(el => el > c-1) ) {
+	if (n1.some(el => el > c-1) || n2.some(el => el > c-1)) {
 		console.log(`Input is not base ${c} compliant.`);
 	} else {
 		for (var i = 0; i < n1.length; i++) {
@@ -113,7 +113,7 @@ function div(a, b, c) {
 	var num1 = 0;
 	var num2 = 0;
 
-	if (n1.some(el => el > c-1) || n2.some(el => el > c-1) ) {
+	if (n1.some(el => el > c-1) || n2.some(el => el > c-1)) {
 		console.log(`Input is not base ${c} compliant.`);
 	} else {
 		for (var i = 0; i < n1.length; i++) {
