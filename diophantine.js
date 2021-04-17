@@ -1,5 +1,6 @@
 console.clear()
 // only change code below this line
+// this prints out all the values between 0 and 100
 
 function cal(x, y, sum) {
 	for (var i = 1; i < 100; i++) {
