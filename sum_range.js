@@ -2,7 +2,7 @@ console.clear()
 // only change code below this line
 
 /* The "range" function returns all the numbers between two limits and the "sum" function sums the array passed to it. 
-They can be used together as such: console.log(sum(range(1,10)). */
+They can be used together as such: sum(range(1,10)). */
 
 function range(a, b) {
 	var rng = [];
